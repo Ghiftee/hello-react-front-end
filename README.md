@@ -1,8 +1,10 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Set up a "Hello world" project with two apps
+# Set up a "Hello world" project with two apps(front end)
 
 > Hello React App frontend
+
+![Screenshot](front-end.png)
 
 ## Built With
 

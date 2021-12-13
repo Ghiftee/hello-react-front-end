@@ -4,6 +4,8 @@
 
 > Hello React App frontend
 
+![Screenshot](front-end.png)
+
 ## Built With
 
 - React & Redux
